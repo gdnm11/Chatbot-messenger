@@ -4,12 +4,11 @@
 
 Facebook à récemment ouvert sa plate-forme Messenger pour permettre aux bots de dialoguer avec les utilisateur via les applications Facebook et sur les pages Facebook.
 
-Vous pouvez lire la [documentation](https://developers.facebook.com/docs/messenger-platform/quickstart) the Messenger team prepared but it's not very clear for beginners and intermediate hackers. 
+Vous pouvez lire la [documentation](https://developers.facebook.com/docs/messenger-platform/quickstart) que la team Messager à disposition, mais ce n'est pas très clair pour les personnes de niveaux débutants ou intermédiaires.
 
-So instead here is how to create your own messenger bot in 15 minutes.
+Alors, voici comment créer votre propre bot de messagerie en 15 minutes.
 
-## 🙌 Get set
-
+## 🙌 Commençons
 Messenger bots uses a web server to process messages it receives or to figure out what messages to send. You also need to have the bot be authenticated to speak with the web server and the bot approved by Facebook to speak with the public.
 
 You can also skip the whole thing by git cloning this repository, running npm install, and run a server somewhere.
